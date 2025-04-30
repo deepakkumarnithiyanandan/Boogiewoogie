@@ -1,5 +1,6 @@
-mediapipe
 opencv-python
-numpy
-pandas
-mutagen
+mediapipe
+pygame
+pythreejs
+pygltflib
+time
